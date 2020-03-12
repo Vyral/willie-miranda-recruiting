@@ -18,13 +18,13 @@ client:
   market: Clifton Park
   brand: Miranda Real Estate Group
   brokerage:
-  address: 15 Dawson Lane Clifton Park, NY 12065
+  address: 1482 Route 9, Clifton Park, NY 12065
   phone: 518-376-1073
   phone_type:
   phone2:
   phone2_type:
-  email: WMiranda@mrgteam.com
-  url: https://www.mirandarealestategroup.com
+  email: wmiranda@mrgteam.com
+  url: https://www.MirandaRealEstateGroup.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
