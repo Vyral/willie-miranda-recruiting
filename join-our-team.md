@@ -1,11 +1,11 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: The Capital District Careers
 permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
+<h1 class="join-us">Join One of the Fastest Growing Real Estate Brokerages in The Capital District</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">
 <span class="client-image-container">
@@ -15,39 +15,44 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Real Estate Agent:
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be working at a real estate brokerage or on a traditional team as part of someone else’s personal brand. You understand your potential and are working hard to clear a path toward your goals, but currently lack the support you need to achieve them. Many brokerages promise to provide structure, coaching, and other resources, but fail to make good on their word once they’ve drawn you in. As a result of this and other factors, <strong>87% of all new agents fail within five years of starting in the industry.</strong></p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
-<ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
-</ul></p>
+<p>The reason so many agents drop out of the business is simple: They don’t know what they’re doing. And this often isn’t their fault. It’s an unfortunate truth of our industry that the majority of brokerages out there don’t properly educate or equip their agents. In addition, the lack of leads can be disheartening, especially if you don’t know how to handle those leads when you do get them.</p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p><strong>Even the most hardworking agent won’t get anywhere if they aren’t headed in the right direction.</strong> You want unlimited income and a flexible schedule, but you don’t know how to structure each day to achieve those things. It’s time to stop chasing dead ends. It’s time to forge your own path to success.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p><strong>My name is Willie Miranda and I’ve been in the real estate business for the last 22 years.</strong> I started in the business as a part-time agent to make a little extra money while working full-time in the insurance business. I immediately loved real estate and ended up opening my own brokerage in 2002. </p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>In my time as a broker, I’ve gotten a lot of fulfillment from helping other agents through coaching, training, and writing multiple books. I practice what I preach and apply the same practices to my business that I teach to our agents. I’m always aware of what’s going on in the marketplace so that I can relate to them. </p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>I’ve seen plenty of people lose sleep at night because they don’t know where their next check is coming from or because they’re worried that a deal won’t close and they won’t be able to pay their bills. They know what they need to do, but not how to do it. It becomes easier to just not do anything at all.
+<strong>If this sounds familiar, then consider this message your lifeline.</strong> I’ve trained and coached many agents just like you; I’ve taken people struggling to stay afloat in life (let alone in business) and turned them into top-producing real estate professionals. I can do the same for you.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>The majority of agents are not only wasting their time, but they’re also wasting their money and energy. Going to school, getting your license, and working hard just isn’t enough to make it.
+I’m reaching out today because I can help. I consult and coach my agents one-on-one to build one, three, and five-year plans so that they have the accountability in place to help them grow. </p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p><strong>Our team is very goal-driven.</strong> I know what the goals are for all of my agents, and I actively work to help them achieve those goals. We don’t expect you to have all the answers. That’s why our team utilizes the services of a national coach to get you on the right path. This coach would cost you $10,000 to $15,000 per year on your own, but you get their services for free when you work with us.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>We also hold accountability groups, where you meet with other agents in the company on a weekly basis. You then are paired with a new partner each week, who will hold you accountable to your weekly activities and goals. Our great administrative staff helps our agents focus on what they do best, and our marketing coordinator helps agents run their business both online and offline.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p><strong>Our systems truly work, but don’t just take my word for it.</strong> Consider the stories of Kate and Jennifer:</p>
 
-<p>Let’s help you grow your business.</p>
+<p>Kate Pena worked at two different brokerages during her first few years in the business, but a lack of mentoring and support resulted in little business. Once she plugged into our systems, her business grew by 312% in her first year, allowing her to take home a six-figure income.</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>Jennifer Whipple was with a national franchise for eight years. She was proficient, but was never able to truly build her own brand. She came to us, and after discussing the importance of her personal brand and relationships with her clients, we put a plan together that resulted in a 520% increase in production with a very healthy six-figure income. In fact, she was our Number 2 agent at our company in 2019. Their success stories are incredible, but now it’s time for you to start writing your own. </p>
+
+<p>Once you officially join us, our Operations Coordinator, Tina, will help you get started with an Onboarding Checklist, so that you’re ready to start selling homes right away. Then, you’ll meet one-on-one with me to come up with your yearly plan including your business and personal goals. We’ll teach you how we generate leads, the importance of our VIP Buyer’s and Listing Presentation and much more!</p>
+
+<p><strong>I guarantee that if you come on board and commit to our program for 12 months your business will jump to the next level, and you’ll definitely be making more than what you currently are.</strong>
+The choice is in your hands. You can stay struggling where you’re at, join a big-box brokerage where you’ll get no support, or even quit the industry altogether and start working at a 9-to-5 job—or you can join us and start leading the life you deserve.</p>
+
+<p>Our support-oriented environment helps professionals learn, grow, and thrive. <strong>People join us because they want to succeed, make money, and serve our community.</strong> We understand that to reach those goals, you need support, coaching, resources, and leads—so that is exactly what we provide. So, what are you waiting for? It’s time to take control of your future and see firsthand how joining us can transform your life and career. We currently only have spots for three candidates to join our brokerage at the moment. The longer you wait to reach out, the longer you’re suppressing your true potential. Let’s have a conversation today. We’d love to get you scheduled in a one-on-one meeting, get you in our training program, but most importantly getting you started on the life you deserve! </p>
+
+<p>I look forward to talking to you soon!</p>
+<p>Willie Miranda</p>
+
 
 
 
@@ -60,4 +65,3 @@ permalink: /join-our-team/
 					<!--base32-c9gq6t9k68pk8c9he1t7cxkecdkpedhpe9h6at3me5r7ee1kddhpwx9q71up4tb3f1u6mc3mdcwp6vkg6rw3gc1dc9gq6t9k68-base32-->
 					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
-</div>
