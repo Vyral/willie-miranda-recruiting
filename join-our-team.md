@@ -39,8 +39,15 @@ I’m reaching out today because I can help. I consult and coach my agents one-o
 
 <p><strong>Our systems truly work, but don’t just take my word for it.</strong> Consider the stories of Kate and Jennifer:</p>
 
-<p>Kate Pena worked at two different brokerages during her first few years in the business, but a lack of mentoring and support resulted in little business. Once she plugged into our systems, her business grew by 312% in her first year, allowing her to take home a six-figure income.</p>
+<div class="testimonial-image-container">
+	<img src="/img/pena.jpg" class="testimonial-image" />
+</div>
+<figcaption class="caption">Kate Pena, Real Estate Salesperson</figcaption><p>Kate Pena worked at two different brokerages during her first few years in the business, but a lack of mentoring and support resulted in little business. Once she plugged into our systems, her business grew by 312% in her first year, allowing her to take home a six-figure income.</p>
 
+<div class="testimonial-image-container">
+	<img src="/img/whipple.jpg" class="testimonial-image" />
+</div>
+<figcaption class="caption">Jennifer Whipple, Real Estate Salesperson</figcaption>
 <p>Jennifer Whipple was with a national franchise for eight years. She was proficient, but was never able to truly build her own brand. She came to us, and after discussing the importance of her personal brand and relationships with her clients, we put a plan together that resulted in a 520% increase in production with a very healthy six-figure income. In fact, she was our Number 2 agent at our company in 2019. Their success stories are incredible, but now it’s time for you to start writing your own. </p>
 
 <p>Once you officially join us, our Operations Coordinator, Tina, will help you get started with an Onboarding Checklist, so that you’re ready to start selling homes right away. Then, you’ll meet one-on-one with me to come up with your yearly plan including your business and personal goals. We’ll teach you how we generate leads, the importance of our VIP Buyer’s and Listing Presentation and much more!</p>
