@@ -18,7 +18,9 @@ youtube_code: jtl9ihduZTs
 
 {% include youtube.html %}
 
-Willie and his brother, Brian Miranda (General Manager/Associate Broker at Miranda Real Estate Group, Inc.), travel to NYC for the day to meet with Ryan Serhant, the star of Million Dollar Listing New York, and the author of "<u><a target="_blank" href="https://ryanserhant.com/sell-it-like-serhant-the-book/">Sell It Like Serhant</a></u>."
+<center><em>Check out what Ryan Serhant has to say about the future of social media and the strategies for getting ahead in the real estate market.</em></center>
+
+<br>Willie and his brother, Brian Miranda (General Manager/Associate Broker at Miranda Real Estate Group, Inc.), travel to NYC for the day to meet with Ryan Serhant, the star of Million Dollar Listing New York, and the author of "<u><a target="_blank" href="https://ryanserhant.com/sell-it-like-serhant-the-book/">Sell It Like Serhant</a></u>."
 
 Check out what Ryan has to say about the future of social media and the strategies for getting ahead in the real estate market.
 
