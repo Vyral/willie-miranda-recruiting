@@ -2605,6 +2605,11 @@ form select {
 .testimonial-image {
   max-width: 100px; }
 
+.join-our-team {
+  width: 50%;
+  display: block;
+  margin: 0 auto 3rem; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
