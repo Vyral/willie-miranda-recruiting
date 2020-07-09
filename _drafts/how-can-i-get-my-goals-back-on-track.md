@@ -16,7 +16,9 @@ youtube_code: CmXJNr_tiGE
 
 {% include youtube.html %}
 
-First, I’d like to say congratulations for making it through the first half of 2020; there were many bumps in the road. If you’re a bit off track for reaching your goals this year, I’m sharing the three steps for how to get back on pace to achieve them:
+<center><em>These three steps will ensure you can achieve your goals for 2020.</em></center>
+
+<br>First, I’d like to say congratulations for making it through the first half of 2020; there were many bumps in the road. If you’re a bit off track for reaching your goals this year, I’m sharing the three steps for how to get back on pace to achieve them:
 
 **1\. Make a goal**. You need a clear, written goal; you can make a new one, or revise the ones you made in January. This goal could be to make more calls, reach out to your database more, develop a farm, create more videos, be more active on social media, etc.
 
