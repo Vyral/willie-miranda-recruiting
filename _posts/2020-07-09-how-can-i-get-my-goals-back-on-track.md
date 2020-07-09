@@ -33,5 +33,3 @@ I wish you the best in 2020. Don’t give up, even if you’re a little behind o
 If you have questions about these steps or concerning real estate in general, please reach out via phone or email. I would be glad to help you.
 
 {% include full-post-cta.html %}
-
-&nbsp;
