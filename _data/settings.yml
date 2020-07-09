@@ -9,7 +9,8 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: 'https://www.eventbrite.com/e/3-hour-virtual-business-planning-workshop-tickets-104052967226'
+    url: >-
+      https://www.eventbrite.com/e/3-hour-virtual-business-planning-workshop-tickets-104052967226
   - title: Free Strategy Call
     url: /strategy-call
   - title: Free Newsletter
@@ -18,7 +19,7 @@ client:
   name: Willie Miranda<br>Real Estate Broker/Owner
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Willie Miranda has more than 27 years of experience in the real estate and
     insurance industry. Willie and his team have sold well over 8,000 homes for
     over a billion and a half dollars in real estate sales. Willie has worked
@@ -35,7 +36,7 @@ client:
   market: Clifton Park
   brand: 'Miranda Real Estate Group, Inc.'
   brokerage:
-  address: '1482 Route 9, Clifton Park, NY 12065'
+  address: '1482 U.S. 9<br>Clifton Park, NY 12065'
   phone: 518-376-1073
   phone_type:
   phone2:
