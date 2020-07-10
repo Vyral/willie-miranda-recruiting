@@ -73,7 +73,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: 'http://bnsm7k.podbean.com/'
 podcast:
   title: Clifton Park Real Estate Podcast with Willie Miranda
   categories:
