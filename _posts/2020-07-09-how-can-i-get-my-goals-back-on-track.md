@@ -5,7 +5,8 @@ date: 2020-07-09 00:00:00
 tags:
   - Transaction Management
 excerpt: These three steps will ensure you achieve your goals for 2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/Recruiting/2020/How+Can+I+Get+My+Goals+Back+on+Track_.mp4
 pullquote: 'You need a clear, written goal.'
 enclosure_type: video/mp4
 enclosure_time:
