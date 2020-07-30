@@ -6,7 +6,8 @@ tags:
   - Transaction Management
   - Lead Conversion
 excerpt: Here’s why agents’ success is dependent on the growth of their databases.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2020/How+Can+You+Give+Your+Database+a+Boost_.mp4
 pullquote: >-
   If your database is small and stagnant, your business will stay small and
   ultimately stagnate.
