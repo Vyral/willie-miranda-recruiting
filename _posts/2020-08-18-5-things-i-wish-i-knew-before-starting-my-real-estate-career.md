@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Do I Wish I Had Known About This Business?
+title: 5 Things I Wish I Knew Before Starting My Real Estate Career
 date: 2020-08-18 00:00:00
 tags:
   - Lead Conversion
