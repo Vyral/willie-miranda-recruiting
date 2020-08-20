@@ -5,6 +5,7 @@ date: 2020-07-20 00:00:00
 tags:
   - Transaction Management
   - Lead Conversion
+  - Lead Generation
 excerpt: Here’s why agents’ success is dependent on the growth of their databases.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2020/How+Can+You+Give+Your+Database+a+Boost_.mp4
