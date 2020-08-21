@@ -7,7 +7,8 @@ tags:
   - Lead Generation
   - Transaction Management
 excerpt: Here are the five things I wish I’d known before diving into real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2020/5+Things+I+Wish+I+Knew+Before+Starting+My+Real+Estate+Career.mp4
 pullquote: The fortune’s in the follow-up.
 enclosure_type: video/mp4
 enclosure_time:
