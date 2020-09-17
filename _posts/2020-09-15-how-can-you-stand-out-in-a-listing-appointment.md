@@ -46,6 +46,6 @@ youtube_code: zwI4KZPKeuo
 
 8:12 — Wrapping things up
 
-If you have any questions for me about pre-listing packets or anything else related to the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have questions for me about pre-listing packets or anything else related to the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
 {% include full-post-cta.html %}
