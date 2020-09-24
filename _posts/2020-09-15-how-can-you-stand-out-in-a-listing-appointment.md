@@ -5,7 +5,8 @@ date: 2020-09-15 00:00:00
 tags:
   - Listing Presentation
 excerpt: Our pre-listing packet sets us apart from other listing agents.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2020/How+Can+You+Stand+Out+in+a+Listing+Appointment_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
