@@ -24,7 +24,7 @@ youtube_code: 2j070JxybiQ
 
 I’ve been bringing a notepad to listing appointments for the past 15 years because early on, I learned the reason that I needed it the hard way. Years ago I lost a couple of listings, and when I called to follow up with them, the seller said they felt I didn’t seem very interested in the property. One client said that the agent they chose brought a notepad, a pen, and took notes on the updates we made to our home. When I walked through their house I was taking mental notes, but they couldn’t see that.
 
-So since that day, I’ve always brought a notepad to listing appointments. This is my advice to you: Take physical notes about any improvements the client has made to their property. Also, take either mental or physical notes about anything negative you notice about the home, then **compliment them on the good things**, whether it’s a great lot, beautiful landscaping, attractive kitchen tile, etc.
+So since that day, I’ve always brought a notepad to listing appointments. This is my advice to you: Take physical notes on any improvements the client has made to their property. Also, take either mental or physical notes about anything negative you notice about the home, then **compliment them on the good things**, whether it’s a great lot, beautiful landscaping, attractive kitchen tile, etc.
 
 Make sure you don’t say things such as, “Who picked out the paint color in this room?” or “Wow, you’ll have to replace these carpets.” That’s no way to build a rapport in the first 15 minutes of meeting someone. Sellers are frequently emotional about their house, so they’re apprehensive and will take offense to unfavorable comments. Following this advice will help you win more listings.
 
