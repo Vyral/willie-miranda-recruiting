@@ -5,7 +5,8 @@ date: 2020-09-29 00:00:00
 tags:
   - Listing Presentation
 excerpt: Here’s why you should always bring a notepad to listing appointments.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2020/Why+Do+I+Need+a+Notepad+for+Listing+Appointments.mp4
 pullquote: >-
   Take physical notes about any improvements the client has made to their
   property.
