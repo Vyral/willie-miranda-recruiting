@@ -3,7 +3,6 @@ layout: post
 title: How Can You Give Your Database a Boost?
 date: 2020-07-20 00:00:00
 tags:
-  - Transaction Management
   - Lead Conversion
   - Lead Generation
 excerpt: Here’s why agents’ success is dependent on the growth of their databases.
