@@ -5,7 +5,8 @@ date: 2020-11-09 00:00:00
 tags:
   - Transaction Management
 excerpt: Accountability is very important when it comes to achieving your goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2020/How+Can+Accountability+Help+You+Achieve+Your+Goals.mp4
 pullquote: >-
   It’s important to plan your goals now, and the best way to do this is with
   accountability.
