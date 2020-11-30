@@ -5,7 +5,8 @@ date: 2020-11-24 00:00:00
 tags:
   - Transaction Management
 excerpt: These eight areas are where you should be setting your goals for 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2020/Have+You+Started+Planning+for+2021+Yet_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
