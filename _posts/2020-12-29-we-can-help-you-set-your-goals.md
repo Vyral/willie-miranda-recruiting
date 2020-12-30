@@ -5,7 +5,8 @@ date: 2020-12-29 00:00:00
 tags:
   - Transaction Management
 excerpt: Need help planning your business’s goals for 2021?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2020/We+Can+Help+You+Set+Your+Goals.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
