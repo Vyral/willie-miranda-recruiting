@@ -24,7 +24,7 @@ youtube_code: 8A-HKYvXJQc
 * Agents who won’t write down their goals and never will.
 * Agents who want to write down their goals but can’t due to a sort of writer’s block.
 
-To that last group of agents, I say that maybe planning out a whole year is a bit too much; **perhaps you should read “The 12-Week Year” by Brian Moran**. The book dissects how to plan your goals in 12-week sprints, and many people have found it to be an effective strategy.
+To that last group of agents, I say that maybe planning out a whole year is a bit too much; **perhaps you should read “The 12-Week Year” by Brian Moran**. The book discusses the importance of planning your goals in 12-week sprints versus writing down annual goals. Many people have found this strategy to be more effective.
 
 With that in mind, **I’m offering you a free, 30-minute business strategy call**. No matter where you are, whether you’re planning goals or just need to tweak them a little, I’d be more than happy to help you. <u><a target="_blank" rel="noopener" href="https://ultimaterealestatesuccessblueprint.com/strategy-call">Click here</a></u> to sign up for your free call, and we’ll reach out to you to set up a time.
 
