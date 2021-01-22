@@ -5,7 +5,8 @@ date: 2021-01-20 00:00:00
 tags:
   - Transaction Management
 excerpt: There are four questions you must answer to be a successful agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/4+Questions+You+Need+to+Answer+to+Be+Successful.mp4
 pullquote: >-
   If you’re consistent in your daily, weekly, and monthly activities, you’ll get
   the results you want.
