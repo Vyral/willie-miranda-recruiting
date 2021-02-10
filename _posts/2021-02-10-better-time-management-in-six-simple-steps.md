@@ -20,7 +20,7 @@ youtube_code: 8ZNL4EAc6b8
 
 <center><em>Today I&rsquo;m sharing six ways you can better manage your time as a real estate professional.</em></center>
 
-<br>Today I am sharing six very simple steps that top real estate professionals to take the most advantage of their time.
+<br>Today I am sharing six very simple steps that top real estate professionals take to manage their time.
 
 **1\. Plan your week**. If you don’t plan it, someone else will. I do this on Sunday evening with my wife and plan out the entire week for business, social, and family functions. Make sure that you have one calendar that you use.
 
