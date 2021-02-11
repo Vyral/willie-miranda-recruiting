@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Better Time Management in Six Simple Steps
+title: Better Time Management in 6 Simple Steps
 date: 2021-02-10 00:00:00
 tags:
   - Transaction Management
@@ -34,7 +34,7 @@ youtube_code: 8ZNL4EAc6b8
 
 **5\. Schedule lead generation**. You have to schedule this for a minimum of two hours a day for five days a week. If you're a newer agent, you should probably double that. This is going to help you put business in your pipeline. Treat that time as listing appointments, even if not all of them are.
 
-**6\. Take a day off**. It’s so important to schedule that time to take time off. You’re going to get burnt out or sick if you work all day every day. There are some weeks where you won’t be able to do it, but make up for it by taking two days off the next week or a couple of half-days off.
+**6\. Take a day off**. It’s so important to schedule time off. You’re going to get burnt out or sick if you work all day every day. There are some weeks where you won’t be able to do it, but make up for it by taking two days off the next week or a couple of half-days off.
 
 I hope these tips help you better manage your time. If you’d like to learn more, I invite you to join our free Ultimate Real Estate Success Blueprint Master Class every Wednesday at 1:00 p.m. CST. You can <u><a target="_blank" rel="noopener" href="http://www.blueprintclassroom.com">register here</a></u> and catch up with us for this Wednesday’s new class.
 
