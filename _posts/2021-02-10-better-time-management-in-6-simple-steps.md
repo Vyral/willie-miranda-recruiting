@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m sharing six ways you can better manage your time as a real estate
   professional.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/Better+Time+Management+in+6+Simple+Steps.mp4
 pullquote: Take a day off so you don’t get burned out!
 enclosure_type: video/mp4
 enclosure_time:
