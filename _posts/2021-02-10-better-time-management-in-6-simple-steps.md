@@ -36,7 +36,7 @@ youtube_code: xoVftBHeOMI
 
 **6\. Take a day off**. It’s so important to schedule time off. You’re going to get burned out or sick if you work all day every day. There are some weeks where you won’t be able to do it, but make up for it by taking two days off the next week or a couple of half-days off.
 
-I hope these tips help you better manage your time. If you’d like to learn more, I invite you to join our free Ultimate Real Estate Success Blueprint Master Class every Wednesday at 1:00 p.m. CST. You can <u><a target="_blank" rel="noopener" href="http://www.blueprintclassroom.com">register here</a></u> and catch up with us for this Wednesday’s new class.
+I hope these tips help you better manage your time. If you’d like to learn more, I invite you to **join our free Ultimate Real Estate Success Blueprint Master Class** every Wednesday at 1:00 p.m. CST. You can <u><a target="_blank" rel="noopener" href="http://www.blueprintclassroom.com">register here</a></u> and catch up with us for this Wednesday’s new class.
 
 If you’d like some more advice or have any other questions about what it takes to be successful in this business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
