@@ -16,7 +16,7 @@ youtube_code: RX1u5q6nJk4
 
 {% include youtube.html %}
 
-<p style-"text-align: center"><em>This strategy helps us find off-market properties for our buyers.</em></p>
+<p style="text-align: center"><em>This strategy helps us find off-market properties for our buyers.</em></p>
 
 <br>We use many different strategies to help our clients find off-market properties, but today I want to discuss one in particular that has worked out very well for us. One of the big challenges that agents in today’s market are having is that there’s just not a lot of inventory available for buyers. One strategy we use to overcome this barrier is our “ugly listing letter.” This letter is sent out to streets and neighborhoods where buyers are looking. It reads:
 
