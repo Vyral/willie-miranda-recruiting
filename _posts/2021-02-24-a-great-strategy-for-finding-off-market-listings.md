@@ -20,7 +20,7 @@ youtube_code: RX1u5q6nJk4
 
 <br>We use many different strategies to help our clients find off-market properties, but today I want to discuss one in particular that has worked out very well for us. One of the big challenges that agents in today’s market are having is that there’s just not a lot of inventory available for buyers. One strategy we use to overcome this barrier is our “ugly listing letter.” This letter is sent out to streets and neighborhoods where buyers are looking. It reads:
 
-*“Dear Homeowner(s), I have a client who is extremely interested in purchasing a home in your neighborhood. My clients are pre-approved and ready to make an offer. They can be extremely flexible with closing dates and are willing to pay full market value if the inside of your home fits their needs. So, if you are considering making a move in the next two to three months, please call me at (518) 376-1073.”*
+<p style="margin-left:5%; margin-right:5%;"><em>“Dear Homeowner(s), I have a client who is extremely interested in purchasing a home in your neighborhood. My clients are pre-approved and ready to make an offer. They can be extremely flexible with closing dates and are willing to pay full market value if the inside of your home fits their needs. So, if you are considering making a move in the next two to three months, please call me at (518) 376-1073.”</em></p>
 
 After sending this letter out, we’ve recently gotten calls from homeowners interested in selling their homes where they’ve asked if our buyers would be interested in viewing their property. Last year, **we sent this letter out to 269 homes, and we had seven people respond within 10 days**. We ended up listing three of those homes and sold one to our buyers pretty quickly.
 
