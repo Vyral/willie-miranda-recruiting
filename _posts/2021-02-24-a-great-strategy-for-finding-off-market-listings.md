@@ -5,7 +5,7 @@ date: 2021-02-24 00:00:00
 tags:
   - Buyer Prospects
 excerpt: This strategy helps us find off-market properties for our buyers.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/A+Great+Strategy+for+Finding+Off-Market+Listings.mp4
 pullquote: Be aware of what the advertising guidelines are for your state.
 enclosure_type: video/mp4
 enclosure_time:
