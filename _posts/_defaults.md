@@ -14,9 +14,7 @@ youtube_code:
 ---
 {% include youtube.html %}
 
-<center style="font-size: 18px;"><em>EXCERPT.</em></center>
-
-<br>ARTICLE
+{% include excerpt.html %}
 
 {% include pullquote.html %}
 
