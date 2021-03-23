@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/03-19-miranda-youtube.jpg
-youtube_code: NjuBT_vcAyg
+youtube_code: uwkBrPvDJqc
 ---
 {% include youtube.html %}
 
@@ -31,10 +31,10 @@ Do you struggle to convert leads into appointments? I’m sharing six steps to h
 
 **4\. Offer a solution**. Now you’re ready to offer a solution to whatever they need. Maybe they need to buy a home before selling their current one, or they need another contingency, and you can explain how they can get it. Giving them options and solutions is essential.
 
-**5\. Never hang up without a follow up**. The fortune’s in the follow up. If you go through finding a lead, talking to them, fact-finding for them, and building a great rapport but you don’t have something to follow up with them about, it’s all been a waste of time. I see plenty of real estate agents make this mistake. 80% of leads are down-the-road leads, so you need a follow-up plan.
+**5\. Never hang up without a follow-up**. The fortune’s in the follow-up. If you go through finding a lead, talking to them, fact-finding for them, and building a great rapport, but you don’t have something to follow-up with them about, it’s all been a waste of time. I see plenty of real estate agents make this mistake. 80% of leads are down-the-road leads, so you need a follow-up plan.
 
 **6\. Just be honest**. Simply be honest with people. I’ve had to tell people that it may not be a good time for them to buy or sell. By finding their pain point and establishing motivations, you’ll know what to tell them. Everyone should always be honest, but unfortunately, sometimes people aren’t as honest as they should be.
 
-If you want more information about these kinds of topics, <u><a target="_blank" rel="noopener" href="https://register.gotowebinar.com/register/7774288690895853068">sign up for a free training from me here</a></u>. We host those every Wednesday at 1 p.m. ET and cover lead generation, seller and buyer follow up, referrals, repeat business, and more.
+If you want more information about these kinds of topics, <u><a target="_blank" rel="noopener" href="https://register.gotowebinar.com/register/7774288690895853068">sign up for a free training class from me here</a></u>. We host those every Wednesday at 1 p.m. ET and cover lead generation, seller and buyer follow-up, referrals, repeat business, and more.
 
 {% include full-post-cta.html %}
