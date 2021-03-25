@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/03-19-miranda-youtube.jpg
-youtube_code: uwkBrPvDJqc
+youtube_code: FNASrYc-JLE
 ---
 {% include youtube.html %}
 
@@ -25,7 +25,7 @@ Do you struggle to convert leads into appointments? I’m sharing six steps to h
 
 **2\. Mirror their personality**. If you’ve heard of the DISC personality test, you’ll know that a D (dominant) personality type speaking to a C (conscientious) personality type will change how that conversion goes, as compared to two dominant personalities conversing, for example. (If you’re unfamiliar with DISC, see the graphic at 1:20 in the video above.) Adjust your speech and style to theirs; people do business with those they know, like, and trust, and they’ll trust you much more if they relate to you.
 
-**3\. Establish time and motivations**. If someone is ready to go immediately, you can go ahead and begin the process. However, they may tell you they won’t be ready for another three years. Don’t waste everyone’s time by doing unnecessary things like having them book a listing appointment or getting pre-qualified if they’re not ready yet.
+**3\. Establish timing and motivation**. If someone is ready to go immediately, you can go ahead and begin the process. However, they may tell you they won’t be ready for another three years. Don’t waste everyone’s time by doing unnecessary things like having them book a listing appointment or getting pre-qualified if they’re not ready yet.
 
 {% include pullquote.html %}
 
