@@ -5,7 +5,8 @@ date: 2021-03-22 00:00:00
 tags:
   - Lead Conversion
 excerpt: I have six steps you can follow to convert more leads into clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/6+Steps+to+Convert+Leads+Into+Clients.mp4
 pullquote: >-
   Find out what they’re truly looking for, how you can help them, and ask many
   questions.
