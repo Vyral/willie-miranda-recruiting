@@ -5,7 +5,8 @@ date: 2021-04-21 00:00:00
 tags:
   - Transaction Management
 excerpt: Now is the time to refocus on your goals for 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/4+Goal+Categories+to+Refocus+on+During+Q2.mp4
 pullquote: >-
   Share these goal categories with a friend, partner, or someone you trust to
   keep you accountable.
