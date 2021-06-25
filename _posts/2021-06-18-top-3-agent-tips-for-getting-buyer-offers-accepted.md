@@ -5,7 +5,8 @@ date: 2021-06-18 00:00:00
 tags:
   - Buyer Prospects
 excerpt: These tips can help you strengthen your buyer’s offers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/Top+3+Agent+Tips+for+Getting+Buyer+Offers+Accepted.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
