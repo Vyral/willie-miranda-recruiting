@@ -21,7 +21,7 @@ A few of my fellow agents and I were recently discussing ways that help our home
 
 **1\. Set expectations:** Agents should go over the entire contract and advise their clients to make larger deposits or increase the threshold amount for inspections.
 
-**2\. Maintain a strong relationship with your client:** Reach out to the listing agent to find out what is most important to the sellers. You can add this information into the offer to help strengthen it.
+**2\. Maintain a good relationship with the listing agent:** Reach out to the listing agent to find out what is most important to the sellers. You can add this information into the offer to help strengthen it.
 
 **3\. Send an email summary:** When sending your offer to the listing agent, summarize the offer’s greatest strengths in the email, such as, the amount offered, the type of financing, inspections, and more. Do your best to keep everything in a single PDF with one attachment.
 
