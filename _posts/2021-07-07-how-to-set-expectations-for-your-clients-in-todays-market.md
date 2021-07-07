@@ -5,7 +5,8 @@ date: 2021-07-07 11:00:00
 tags:
   - Client Expectations
 excerpt: It’s important for agents to set expectations with buyers and sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/WILLIE_MIRANDA_SETTING_EXPECTATIONS.mp4
 pullquote: >-
   Make sure to set expectations and be clear when working with your buyer and
   seller clients. 
