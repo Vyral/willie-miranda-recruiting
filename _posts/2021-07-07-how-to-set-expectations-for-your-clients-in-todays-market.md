@@ -26,7 +26,7 @@ First, it’s important to educate clients about what’s going on in the market
 
 {% include pullquote.html %}
 
-**It’s also important to set expectations for sellers.** Many homeowners are hearing from friends, family members, and neighbors that they can get tens of thousands of dollars over asking price. If we look at the data, however, it’s simply not true. We walk our sellers through the numbers and show them that, although our market is hot, they can’t start out with a high listing price. In fact, it’s often better to start low or at market price and allow competition to push the price higher.
+**It’s also important to set expectations for sellers.** Many homeowners are hearing from friends, family members, and neighbors that they can get tens of thousands of dollars over asking price. If we look at the data, however, it’s simply not true. We walk our sellers through the numbers and show them that, although our market is hot, they can’t start out with a high listing price. In fact, it’s often better to start low or at market value and allow competition to push the price higher.
 
 So, make sure to set expectations and be clear when working with your buyer and seller clients. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
 
