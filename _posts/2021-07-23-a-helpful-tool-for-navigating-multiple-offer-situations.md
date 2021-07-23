@@ -23,7 +23,7 @@ We see so many multiple-offer situations in this market, and we could have up to
 
 Incomplete offers aren’t uncommon, but they are frustrating for sellers and their agents. Are you sending out offers that are sloppy and incomplete? Missing forms or pre-approvals? If so, make sure you follow a checklist to ensure a good, clean offer. We show our agents that having one .pdf copy of an offer is critical.
 
-**We also use a cover letter that discusses an offer’s strength with the seller’s agent**. <u><a target="_blank" rel="noopener" href="https://docs.google.com/document/d/1VnJw0gQuKVhs-Nyzp0sk64H9_Rw9Yxi1/edit?pli=1">Here&rsquo;s a link to that sample cover letter</a></u>.
+**We also use a cover letter that discusses an offer’s strength with the seller’s agent**. [<u>Here&rsquo;s a link to that sample cover letter</u>](/uploads/MultipleOfferEmailExample.pdf){: target="_blank" rel="noopener"}.
 
 {% include pullquote.html %}
 
