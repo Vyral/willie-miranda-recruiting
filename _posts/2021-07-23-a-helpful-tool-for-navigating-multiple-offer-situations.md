@@ -17,7 +17,7 @@ youtube_code: MOWPnh2CND8
 
 {% include excerpt.html %}
 
-Do you feel you’re doing a great job presenting offers from your buyers to sellers in multiple-offer situations? Today I’m sharing a quick tool we use that guarantees your buyer’s offer will stand out to sellers.
+Do you feel you’re doing a great job presenting offers from your buyers to sellers in multiple-offer situations? Today we're sharing a quick tool we use that guarantees your buyer’s offer will stand out to sellers.
 
 We see so many multiple-offer situations in this market, and we could have up to 15 different offers on one home. **The offers that stand out the most are the ones that put the whole package together**.
 
