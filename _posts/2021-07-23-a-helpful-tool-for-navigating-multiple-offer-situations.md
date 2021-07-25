@@ -10,7 +10,7 @@ pullquote: Having just one .pdf copy of an offer is critical.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/miranda.jpg
+youtube_alternate_image: /uploads/07-19-miranda-youtube-1.jpg
 youtube_code: MOWPnh2CND8
 ---
 {% include youtube.html %}
