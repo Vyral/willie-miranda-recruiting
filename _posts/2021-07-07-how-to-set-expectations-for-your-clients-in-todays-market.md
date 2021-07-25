@@ -3,10 +3,10 @@ layout: post
 title: How to Set Expectations for Your Clients in Today’s Market
 date: 2021-07-07 11:00:00
 tags:
-  - Client Expectations
+  - Transaction Management
 excerpt: It’s important for agents to set expectations with buyers and sellers.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/WILLIE_MIRANDA_SETTING_EXPECTATIONS.mp4
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/How+to+Set+Expectations+for+Your+Clients+in+Today's+Market.mp4
 pullquote: >-
   Make sure to set expectations and be clear when working with your buyer and
   seller clients. 
