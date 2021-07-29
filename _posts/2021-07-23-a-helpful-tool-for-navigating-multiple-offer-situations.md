@@ -27,7 +27,7 @@ Incomplete offers aren’t uncommon, but they are frustrating for sellers and th
 
 {% include pullquote.html %}
 
-This is a great way to make your offer stand out among the others. It shows you’ve gone the extra mile to keep things organized. As you’ll see, the cover letter goes through all the main points of the offer in detail from the start so they don’t have to shift through 20 to 30 pages reviewing it. It can get confusing when there are a ton of offers on one home. Using this cover letter is a great way to have a clean, concise, and complete offer.
+This is a great way to make your offer stand out among the others. It shows you’ve gone the extra mile to keep things organized. As you’ll see, the cover letter goes through all the main points of the offer in detail from the start so they don’t have to look through 20 to 30 pages reviewing it. It can get confusing when there are a ton of offers on one home. Using this cover letter is a great way to have a clean, concise, and complete offer.
 
 If you have any questions for me about this cover letter or anything else related to the real estate business, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
 
