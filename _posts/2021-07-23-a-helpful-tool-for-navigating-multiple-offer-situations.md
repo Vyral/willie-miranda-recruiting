@@ -5,7 +5,8 @@ date: 2021-07-23 00:00:00
 tags:
   - Buyer Prospects
 excerpt: A simple cover letter can help your clients’ offers stand out.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/A+Helpful+Tool+for+Navigating+Multiple-Offer+Situations.mp4
 pullquote: Having just one PDF copy of an offer is critical.
 enclosure_type: video/mp4
 enclosure_time:
