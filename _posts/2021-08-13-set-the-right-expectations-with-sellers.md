@@ -5,7 +5,8 @@ date: 2021-08-13 00:00:00
 tags:
   - Listing Presentation
 excerpt: Advice about how to set the right expectations with sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/Set+the+Right+Expectations+in+This+Changing+Market.mp4
 pullquote: >-
   The market is changing, so we need to alter the expectations we set with
   sellers.
