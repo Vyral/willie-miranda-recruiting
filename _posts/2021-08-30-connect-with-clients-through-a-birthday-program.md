@@ -6,7 +6,8 @@ tags:
   - Lead Conversion
   - Reviews and Referrals
 excerpt: Are you having trouble connecting with clients? Try a yearly birthday program!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/Connect+with+Clients+Through+a+Birthday+Program.mp4
 pullquote: You’d be surprised how much these gestures mean to your clients.
 enclosure_type: video/mp4
 enclosure_time:
