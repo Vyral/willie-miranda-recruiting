@@ -28,7 +28,7 @@ So you know all your clients’ birthdays, but now what? The easiest thing to do
 
 If you don’t have time for a phone call on their birthday, **shoot them a quick video**. Once again, it doesn’t need to be long. You aren’t trying to film *Titanic*; you just want them to know you were thinking of them. If you film a video for your client, you’d be surprised how much it means to them. They might get tons of messages on Facebook, but your video will stand out.
 
-You’ll also want send them a birthday card. Something short, sweet, and to the point is all you need. It doesn't need to be super personal either, so you can bulk order cards if you want to. I also recommend leaving something like a scratch-off lottery ticket with the card. They only cost a dollar or two, but it’s the act of giving that your client will remember.
+You’ll also want to send them a birthday card. Something short, sweet, and to the point is all you need. It doesn't need to be super personal either, so you can bulk order cards if you want to. I also recommend leaving something like a scratch-off lottery ticket with the card. They only cost a dollar or two, but it’s the act of giving that your client will remember.
 
 **Between the card, the video, the ticket, and the phone call, you are looking at two or three dollars per birthday**. It means a lot to people too. You’d be surprised how many people comment on how much they appreciate the gesture. If you have any questions about today’s topic or anything else related to real estate, please reach out to me. I am always willing to help.
 
