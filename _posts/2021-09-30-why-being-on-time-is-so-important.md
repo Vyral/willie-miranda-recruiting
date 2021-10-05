@@ -13,13 +13,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /09-24-miranda-youtube.jpg
-youtube_code: 5lTaAiiPRSQ
+youtube_code: 50CI6k5Q_0Y
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Everyone knows it’s important to be on time, but it’s probably even more important than you think. Today, I’ll share why being on time is crucial to your success.
+Everyone knows it’s important to be on time, but it’s probably even more important than you think. Today I’ll share why being on time is crucial to your success.
 
 Like most agents, I’ve always known that being on time is a good idea. However, I really began to focus on the idea when I read Dan Kennedy’s “No B.S. Time Management for Entrepreneurs.” It’s a great read, and in one of the early chapters, he talks about **the link between punctuality and integrity**. If you show up late to a meeting and you don’t even have the courtesy to call the person and let them know, how can they trust you to hold up your end of a deal?
 
