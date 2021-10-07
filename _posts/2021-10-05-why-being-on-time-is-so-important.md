@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Being On Time Is So Important
-date: 2021-09-30 00:00:00
+date: 2021-10-05 00:00:00
 tags:
   - Transaction Management
 excerpt: This is why being on time is so important as a real estate agent.
