@@ -5,7 +5,8 @@ date: 2021-10-05 00:00:00
 tags:
   - Transaction Management
 excerpt: This is why being on time is so important as a real estate agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2021/Why+Being+On+Time+Is+So+Important.mp4
 pullquote: >-
   Establishing integrity with a potential client is the basis for all further
   transactions.
