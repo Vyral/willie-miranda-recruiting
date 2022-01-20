@@ -5,7 +5,8 @@ date: 2022-01-13 00:00:00
 tags:
   - Lead Conversion
 excerpt: Take your business up a notch with these four lead-generation systems.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2022/How+You+Can+Do+More+for+Your+Lead+Generation.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
