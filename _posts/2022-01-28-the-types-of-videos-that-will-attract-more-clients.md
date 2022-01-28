@@ -6,7 +6,9 @@ tags:
   - Lead Generation
 excerpt: Here are the six types of videos that will engage prospects in your market.
 enclosure:
-pullquote: We’ve done community spotlight videos with floral shops and barbershops.
+pullquote: >-
+  We’ve done community spotlight videos with floral shops, barbershops, and
+  more.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -27,9 +29,9 @@ Are you frustrated or concerned with creating engaging video content that will a
 
 {% include pullquote.html %}
 
-**4\. Property videos.** Sellers love to see their own properties, and it’s another great way to market properties to buyers.
+**4\. Property videos.** Sellers love to see their own homes, and it’s another great way to market properties to buyers.
 
-**5\. Community spotlight videos.** This is another great way to get involved, interview other businesses, and help each other out. We’ve done videos with floral shops, barbershops, and more.
+**5\. Community spotlight videos.** This is another way to get involved, interview other businesses, and help each other out. We’ve done videos with floral shops, barbershops, and more.
 
 **6\. One-to-one videos.** I’ve been doing these for a long time. I’ll send a birthday or anniversary message to my clients. A lot of agents don’t do that, but I do because it sets me apart. Usually, I’m the only real estate professional that’s sending them videos. It’s very easy to do and can really increase responses.
 
