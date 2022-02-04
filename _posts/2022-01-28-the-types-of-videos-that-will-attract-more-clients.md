@@ -5,7 +5,8 @@ date: 2022-01-28 00:00:00
 tags:
   - Lead Generation
 excerpt: Here are the six types of videos that will engage prospects in your market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2022/The+Types+of+Videos+That+Will+Attract+More+Clients.mp4
 pullquote: >-
   We’ve done community spotlight videos with floral shops, barbershops, and
   more.
