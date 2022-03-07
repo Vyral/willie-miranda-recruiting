@@ -5,7 +5,8 @@ date: 2022-03-04 00:00:00
 tags:
   - Lead Conversion
 excerpt: Following up with your leads is one of the most important steps.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2022/The+3-4-12+Follow-Up+Method.mp4
 pullquote: 80% of sales are made on the fifth to 12th contact.
 enclosure_type: video/mp4
 enclosure_time:
