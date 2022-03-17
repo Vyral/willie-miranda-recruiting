@@ -4,9 +4,7 @@ title: The Importance of Establishing a Routine
 date: 2022-03-17 00:00:00
 tags:
   - Transaction Management
-excerpt: >-
-  Why it’s critical to follow a daily routine if you want to be successful.Why
-  it’s critical to follow a daily routine if you want to be successful.
+excerpt: Why it’s critical to follow a daily routine if you want to be successful.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
