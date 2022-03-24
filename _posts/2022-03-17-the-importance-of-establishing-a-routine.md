@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here's why it’s critical to follow a daily routine if you want to be
   successful.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2022/The+Importance+of+Establishing+a+Routine.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,7 @@ youtube_code: Teap2hmd7es
 
 {% include excerpt.html %}
 
-Every real estate agent and broker wants to be successful, but most don’t want to do the pushups. Today I’m discussing how crucial daily habits are in your journey toward success. All good agents have one thing in common: daily rituals designed to help them reach their goals. I’ll be sharing some tips for how you can do this too.&nbsp;
+Every real estate agent and broker wants to be successful, but most don’t want to do the pushups. Today I’m discussing how crucial daily habits are in your journey toward success. All good agents have one thing in common: daily rituals designed to help them reach their goals. I’ll be sharing some tips for how you can do this too.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
