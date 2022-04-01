@@ -23,9 +23,7 @@ The key to success is innovation, and I thought about a lot of agents who get in
 
 {% include pullquote.html %}
 
-Maybe for you, it’s an activity like making calls. Just take the list you have and start calling. You don’t have to be perfect on your scripts from the very first call. **Another way to stand out and be innovative is to do the opposite of what others are doing**. There are a ton of different ways to do this in real estate.
-
-Don't wait to get started bringing in business until you’re “ready.” Get started today.&nbsp;
+Maybe for you, it’s an activity like making calls. Just take the list you have and start calling. You don’t have to be perfect on your scripts from the very first call. **Another way to stand out and be innovative is to do the opposite of what others are doing**. There are a ton of different ways to do this in real estate. Don't wait to get started bringing in business until you’re “ready.” Get started today.&nbsp;
 
 If you have questions for me about getting started or anything else related to the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
