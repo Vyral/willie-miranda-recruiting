@@ -25,13 +25,13 @@ You’re too busy. We hear it all the time. Real estate is a time-consuming busi
 
 {% include pullquote.html %}
 
-**3\. Schedule for uninterrupted work time.** Set aside 30 minutes to two hours to turn your phone off, stop checking your email, and close your door. Having this uninterrupted work time allows you to be way more efficient.
+**3\. Schedule uninterrupted work time.** Set aside 30 minutes to two hours to turn your phone off, stop checking your email, and close your door. Having this uninterrupted work time allows you to be way more efficient.
 
 **4\. Use a timer.** When you’re working on a specific project, set a timer on your phone for 30 to 45 minutes. This helps you focus because you know you only have that amount of time to work on that project. It’s almost like a game.
 
 **5\. Put your personal items first.** When you’re scheduling your calendar, schedule out all of your personal activities before anything else: sporting events, your kids’ activities, doctor appointments, etc. After that, schedule your high-dollar activities, including appointments with potential clients, prospecting, and more. Doing it this way helps you keep a better work-life balance.
 
-As an extra piece of advice, buyers these days don’t care if you’re at your kid’s baseball game. With all of the multiple offer situations right now, buyers just want to see homes as soon as possible. Instead of telling them about your personal life, just say that you have an appointment scheduled.
+As an extra piece of advice, buyers these days don’t care if you’re at your kid’s baseball game. With all of the multiple-offer situations right now, buyers just want to see homes as soon as possible. Instead of telling them about your personal life, just say that you have an appointment scheduled.
 
 If you have questions about these tips or the real estate business in general, feel free to call or email us. We’d be happy to help.
 
