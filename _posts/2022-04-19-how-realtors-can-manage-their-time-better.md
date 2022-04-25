@@ -5,7 +5,8 @@ date: 2022-04-19 00:00:00
 tags:
   - Transaction Management
 excerpt: Five tips to help you manage your time better as a real estate agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Willie+Miranda/2022/How+Realtors+Can+Manage+Their+Time+Better.mp4
 pullquote: Focus on the items that will get you to your next goal.
 enclosure_type: video/mp4
 enclosure_time:
