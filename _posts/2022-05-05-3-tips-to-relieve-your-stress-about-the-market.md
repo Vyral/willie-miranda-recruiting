@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-03-miranda-youtube.jpg
-youtube_code: whjcNrYXarY
+youtube_code: mVRzqhEBBHk
 ---
 {% include youtube.html %}
 
