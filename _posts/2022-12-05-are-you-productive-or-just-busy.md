@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: 'Four things you can focus on to be productive and earn more money. '
 enclosure:
-pullquote: 'Negotiations have changed recently. '
+pullquote: Negotiations have changed recently.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -17,7 +17,7 @@ youtube_code: xcLtfvbAmWk
 
 {% include excerpt.html %}
 
-If you’re like most real estate agents, your schedule is busy, busy, busy. However, is being busy actually the same thing as being productive? This time of year especially, I see a lot of agents who bury themselves in busy work because they don’t want to do the things that matter. If you’re stuck doing busywork instead of being productive, here are four things to focus on to get you back on track:
+If you’re like most real estate agents, your schedule is busy, busy, busy. However, is being busy the same thing as being productive? This time of year especially, I see a lot of agents who bury themselves in busy work because they don’t want to do the things that matter. If you’re stuck doing busywork instead of being productive, here are four things to focus on to get you back on track:
 
 **1\. Lead generation.** Now is the time to double down on lead generation. Don’t hide behind answering friendly emails, grabbing lockboxes, or brainstorming social media posts. Leads are the lifeblood of your business, so they should be your first priority.&nbsp;
 
