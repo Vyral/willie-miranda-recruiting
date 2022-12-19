@@ -19,7 +19,7 @@ youtube_code: kE-DbJVWnmc
 
 As we head towards 2023, I’ve been hearing a lot about work-life balance in my business planning sessions. The truth is that as real estate agents, we work hard seven days a week and all year round. That’s why I wanted to send a quick message and let you know that **this is a great time of the year to time-block.&nbsp;**
 
-Make time to take a day off, not just to meet your family and friends, but also to do what you want. Don’t feel guilty about it; after all, you need to re-energize yourself for the upcoming year.&nbsp;
+Make time to take a day off, not just to meet your family and friends, but also to do what you want. Don’t feel guilty about it; after all, you need to re-energize yourself for the upcoming year.&nbsp;&nbsp;
 
 {% include pullquote.html %}
 
