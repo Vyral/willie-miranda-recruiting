@@ -15,7 +15,7 @@ youtube_code: kE-DbJVWnmc
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
+{% include excerpt.html %}&nbsp;
 
 As we head towards 2023, I’ve been hearing a lot about work-life balance in my business planning sessions. The truth is that as real estate agents, we work hard seven days a week and all year round. That’s why I wanted to send a quick message and let you know that **this is a great time of the year to time-block.&nbsp;**
 
