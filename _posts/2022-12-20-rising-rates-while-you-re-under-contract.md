@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rising Rates While You’re Under Contract
-date: 2022-12-20 07:00:00
+date: 2022-12-19 07:00:00
 tags:
   - Agent Training
 excerpt: Time-blocking during this time of year will do wonders for your career.
