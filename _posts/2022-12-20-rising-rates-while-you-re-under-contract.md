@@ -23,9 +23,7 @@ Make time to take a day off, not just to meet your family and friends, but also 
 
 {% include pullquote.html %}
 
-The last couple of years have been crazy in real estate, but as we go through December, take the time for yourself, your family, and your friends. With that said, do you believe that work-life balance truly exists in the real estate industry?
-
-**As early as now, take a look at 2023 and start time-blocking some activities and creating a schedule.** Don’t just tell your loved ones that you’ll get together soon or you'll give them a call, make it happen. Make 2023 your best year ever.
+The last couple of years have been crazy in real estate, but as we go through December, take the time for yourself, your family, and your friends. With that said, do you believe that work-life balance truly exists in the real estate industry? It does if you plan it\! **So take a look at 2023 and start time-blocking some activities and creating a schedule.** Don’t just tell your loved ones that you’ll get together soon or you'll give them a call, make it happen. Make 2023 your best year ever.
 
 I hope you have a great holiday\! As always, give me a call or send an email if you have any questions about real estate. I’m always here to help.
 
