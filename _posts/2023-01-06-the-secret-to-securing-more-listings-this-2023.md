@@ -24,7 +24,7 @@ The reason for that is that people do business with the ones they know, like, an
 
 {% include pullquote.html %}
 
-When you’re late, the prospect becomes nervous and starts to assume that their home won’t sell. This is especially the case if you show up as if nothing happened and don't acknowledge your tardiness. The best thing for you to do is to show up on time. In fact, get there 15 minutes before. You don’t have to show up at their front door 15 minutes early because some might say that's rude as well. You can drive around the neighborhood, and take a look at some of the comparables, commercial exposures, and the neighborhood itself. You can also review your notes and get yourself prepared for the actual listing.
+When you’re late, the prospect becomes nervous and starts to assume that their home won’t sell. This is especially the case if you show up as if nothing happened and don't acknowledge your tardiness. The best thing for you to do is to show up on time. In fact, get there 15 minutes before. You don’t have to show up at their front door 15 minutes early because some might say that's rude as well. You can drive around the neighborhood and take a look at some of the comparables, commercial exposures, and the neighborhood itself. You can also review your notes and get yourself prepared for the actual listing.
 
 The reason why I share this tip is that I've seen it happen over and over again, where agents have lost listings because they didn't take the time to prepare and leave on time. **A lot of people do not want to do business with people who show up late.**
 
