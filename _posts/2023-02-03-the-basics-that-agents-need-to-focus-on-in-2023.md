@@ -9,7 +9,7 @@ enclosure:
 pullquote: Find out what works in today’s environment and do more of that.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/01-30-miranda-youtube.jpg
 youtube_code: zC04_LtawoE
 ---
