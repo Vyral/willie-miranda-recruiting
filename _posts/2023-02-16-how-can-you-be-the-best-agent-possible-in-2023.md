@@ -21,18 +21,6 @@ I recently watched an interview with one of the greatest college football coache
 
 **You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
 
-0:00 — Introduction
-
-1:11 — Applying coach Saban’s concept to real estate
-
-1:48 — How to strive for excellence in real estate
-
-2:36 — Training and coaching are critical
-
-3:58 — We have a free blueprint masterclass every week
-
-5:24 — Wrapping things up
-
-If you have questions about this topic or anything else, please call or email me. I am always willing to help!
+If you have any questions about this topic or anything else, please call or text met at 518-376-1073 or email me at&nbsp;[wmiranda@mrgteam.com](mailto:wmiranda@mrgteam.com){: target="_blank"}. I am always willing to help!
 
 {% include full-post-cta.html %}
