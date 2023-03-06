@@ -19,7 +19,7 @@ youtube_code: GJrOy2ImJds
 
 {% include excerpt.html %}
 
-How much time do you really have left? Even at age 50, you may be considering the span of your life and thinking that you are only at the halfway point. Still plenty of time left to do the things that you want to do. Let me introduce you to a simple calculation called the QTL number. I think it will really open your eyes.
+How much time do you really have left? Even at age 50, you may be considering the span of your life and thinking that you are only at the halfway point. You may think you still have plenty of time left to do the things that you want to do. Let me introduce you to a simple calculation called the QTL number. I think it will really open your eyes.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
