@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Need To Look at the Time You Have Left
+title: What is Your Quality Time Left?
 date: 2023-03-03 07:00:00
 tags:
   - Agent Tips
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/03-02-miranda-youtube.jpg
-youtube_code: GJrOy2ImJds
+youtube_code: NEfxecyUT3E
 ---
 {% include youtube.html %}
 
