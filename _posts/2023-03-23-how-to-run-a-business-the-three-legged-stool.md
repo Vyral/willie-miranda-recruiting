@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How To Run a Business: The Three-legged Stool'
+title: 'How To Run a Business: The Three-Legged Stool'
 date: 2023-03-23 07:00:00
 tags:
   - Transaction Management
