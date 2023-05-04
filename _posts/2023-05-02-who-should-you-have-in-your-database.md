@@ -8,7 +8,7 @@ excerpt: Project 100 is the secret to building a successful database.
 enclosure:
 pullquote: >-
   Many believe that only those who are likely to buy or sell in the near future
-  should be added.
+  should be added, but that's not true.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -19,7 +19,7 @@ youtube_code: wywTqxhMV6Y
 
 {% include excerpt.html %}
 
-I recently attended a training class highlighting the importance of building a database for real estate agents. The trainer suggested that every agent, especially those new to the business, start with Project 100. This involves adding 100 people to your database, including those who know you, those you know, and those who trust you. However, there seems to be some confusion among agents about who should be included in their database. Many believe that only those who are likely to buy or sell in the near future should be added.
+I recently attended a training class highlighting the importance of building a database for real estate agents. The trainer suggested that every agent, especially those new to the business, start with Project 100. This involves adding 100 people to your database, including those who know you, those you know, and those who trust you. However, there seems to be some confusion among agents about who should be included in their database. Many believe that only those who are likely to buy or sell soon should be added, but that’s not true.
 
 This misconception can limit the growth of an agent's database and, in turn, their business. According to the trainer, the average person knows around 285 people. **So, by adding just 100 people to your database, you could potentially be in front of 28,500 people.** This is an enormous opportunity for agents to establish themselves as experts in the field by providing value to their database, such as helpful information and videos, and staying top of mind.
 
