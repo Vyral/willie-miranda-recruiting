@@ -17,7 +17,7 @@ youtube_code: yKFzkn2MtTw
 
 {% include excerpt.html %}
 
-Are you actively building your business or are you solely immersed in the daily operations of it? Last week, I had the honor of participating as a panelist in a national webinar titled "Time Management Strategies for Top Producing Agents." During this insightful discussion, the moderator posed a series of questions about the most effective time management techniques, tools, and processes available.
+Are you actively building your business, or are you solely immersed in the daily operations of it? Last week, I had the honor of participating as a panelist in a national webinar titled "Time Management Strategies for Top Producing Agents." During this insightful discussion, the moderator posed a series of questions about the most effective time management techniques, tools, and processes available.
 
 One particular question stood out: **What has been my most valuable lesson in time management?** Reflecting on my journey, I recalled a book by Dan Kennedy called "No B.S. Time Management for Entrepreneurs." This resource-rich book offered a wealth of strategies, yet one concept truly resonated with me—the notion of "time vampires." These are the elements that consume our time, often without our awareness.
 
