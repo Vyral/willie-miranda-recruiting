@@ -21,11 +21,11 @@ Are you actively building your business, or are you solely immersed in the daily
 
 One particular question stood out: **What has been my most valuable lesson in time management?** Reflecting on my journey, I recalled a book by Dan Kennedy called "No B.S. Time Management for Entrepreneurs." This resource-rich book offered a wealth of strategies, yet one concept truly resonated with me—the notion of "time vampires." These are the elements that consume our time, often without our awareness.
 
-**Consider your typical day:** You rise early, head to your commitments like the gym—I'm currently at Fitness in Clifton Park—set up your to-do list, and then face unexpected disruptions. These are the time vampires we contend with daily—friends calling, family reaching out, and the perpetual belief that those in real estate have boundless availability.
+**Consider your typical day:** You rise early, head to your commitments like the gym—I'm currently at Vent Fitness in Clifton Park—set up your to-do list, and then face unexpected disruptions. These are the time vampires we contend with daily—friends calling, family reaching out, and the perpetual belief that those in real estate have boundless availability.
 
 {% include pullquote.html %}
 
-However, amidst this chaos, John Kennedy's insight emerged: the importance of working "on" your business rather than just "in" it. Working "on" your business involves refining your marketing plans, strategies, and processes—the very mechanisms that drive your business towards the desired income.
+However, amidst this chaos, Dan Kennedy's insight emerged: the importance of working "on" your business rather than just "in" it. Working "on" your business involves refining your marketing plans, strategies, and processes—the very mechanisms that drive your business towards the desired income.
 
 To embrace this concept, I found tranquility in quiet moments, treating them as sacred appointments with my business. Just as we wouldn't check texts or emails during a critical meeting, the same rule applies when working on your business. Distractions are banished during these sessions. Interestingly, one successful approach I encountered involved acquiring an external workspace, a dedicated haven for undisturbed business focus.
 
