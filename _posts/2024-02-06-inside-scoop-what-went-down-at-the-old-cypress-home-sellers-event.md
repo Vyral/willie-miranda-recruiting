@@ -23,11 +23,11 @@ Educating your audience is crucial for database growth. In the realm of geograph
 
 We expected around 12 to 15 attendees. Small groups are effective for discussing essential topics, such as property condition (both exterior and interior), market conditions, and effective property marketing, including the significance of photos and 3D Matterport.
 
-**The most crucial aspect we covered is pricing.** Undervaluing or overpricing can be detrimental. We also touched on current market trends. As a special bonus, we invited a local insurance expert to address residents' concerns about rising insurance premiums in Florida.
+**The most crucial aspect we covered was pricing.** Undervaluing or overpricing can be detrimental. We also touched on current market trends. As a special bonus, we invited a local insurance expert to address residents' concerns about rising insurance premiums in Florida.
 
 {% include pullquote.html %}
 
-We sent out invitations just a week and a half ago, but for future events, we'll provide a more extended notice. Debriefing after the event helps us improve for the next one. Following this, we plan to host a webinar with my partner, John Saul Koski, and the insurance expert to recap key points and address questions. We'll also create a video recap for those unable to attend, extending the reach of valuable information. This event model has proven successful, and we plan to continue it next month. Just wanted to share this effective approach to live home seller events.
+We sent out invitations just a week and a half ago, but for future events, we'll provide a more extended notice. Debriefing after the event helps us improve for the next one. Following this, we plan to host a webinar with my partner, John Saul Koski, and the insurance expert to recap key points and address questions. We'll also create a video recap for those unable to attend, extending the reach of valuable information. This event model has proven successful, and we plan to continue it next month. I just wanted to share this effective approach to live home seller events.
 
 If you have any questions about our event or need help with your real estate goals, call or email me. I’m always happy to help.
 
