@@ -29,6 +29,6 @@ We expected around 12 to 15 attendees. Smaller groups are effective for discussi
 
 We sent out invitations just a week and a half ago, but for future events, we’ll provide a more extended notice. Debriefing after the event helps us improve for the next one. Following this, we plan to do a recording of the presentation with partner, John Salkowski, and the insurance expert to recap key points and address questions. This will also be used to create a video recap for those unable to attend, extending the reach of valuable information. This event model has been proven to be successful, and we plan to continue it next month.
 
-If you have any questions about our event or need help with your real estate goals, call or email me. I’m always happy to help.
+If you have any questions about our event or need help with your real estate goals, call or email me. I’m always happy to help.&nbsp;
 
 {% include full-post-cta.html %}
