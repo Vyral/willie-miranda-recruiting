@@ -10,7 +10,7 @@ pullquote: Educating your audience is crucial for database growth!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/02-05-miranda-youtube.jpg
+youtube_alternate_image: /uploads/02-05-miranda-youtube-1.jpg
 youtube_code: uhWkRQ2AGQA
 ---
 {% include youtube.html %}
