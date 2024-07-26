@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/w-miranda-cover.jpg
 youtube_code:
 ---
-![](/uploads/w-miranda-cover.jpg){: width="1280" height="720"}
+![](/uploads/w-miranda-cover.jpg){: width="640" height="360"}
 
 {% include excerpt.html %}
 
