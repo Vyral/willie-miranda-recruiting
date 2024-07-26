@@ -14,6 +14,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/w-miranda-cover.jpg
 youtube_code:
 ---
+![](/uploads/w-miranda-cover.jpg){: width="1280" height="720"}
+
 {% include excerpt.html %}
 
 In the wake of the NAR settlement, buyer’s agents are in a tough position. What will your relationship with buyers look like going forward, and how can you ensure a steady income in this new environment?
