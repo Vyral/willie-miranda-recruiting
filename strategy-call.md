@@ -54,7 +54,7 @@ permalink: /strategy-call/
 <div class="testimonial-image-container">
 	<img src="/img/lorimer.jpg" class="testimonial-image" />
 </div>
-<p><span class="quote">I have the great pleasure of knowing, learning and being coached by Willie Miranda for the past several years. He has done it all in the real estate industry; sold a billion dollars of realestate, has a proffitable office, an award-winning team and much more. Willie has taught me cutting edge techniques on how to market and get more customers. The marketing and referral system that Willie has taught me, has allowed my business to double and continues to increase month-to-month. Willie has a common-sense approach that you can implement immediately. Willie Miranda will help you get results and increase your sales and profitability. Thanks Willie!</span><br>
+<p><span class="quote">I have the great pleasure of knowing, learning and being coached by Willie Miranda for the past several years. He has done it all in the real estate industry; sold a billion dollars of realestate, has a profitable office, an award-winning team and much more. Willie has taught me cutting edge techniques on how to market and get more customers. The marketing and referral system that Willie has taught me, has allowed my business to double and continues to increase month-to-month. Willie has a common-sense approach that you can implement immediately. Willie Miranda will help you get results and increase your sales and profitability. Thanks Willie!</span><br>
 <span class="author">- George Lorimer, MBA, REMAX Solutions, San Diego, California</span></p>
 </div>
 <hr>
