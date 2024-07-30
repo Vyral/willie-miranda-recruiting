@@ -25,7 +25,7 @@ permalink: /join-our-team/
 
 <p><strong>Even the most hardworking agent won’t get anywhere if they aren’t headed in the right direction.</strong> You want unlimited income and a flexible schedule, but you don’t know how to structure each day to achieve those things. It’s time to stop chasing dead ends. It’s time to forge your own path to success.</p>
 
-<p><strong>My name is Willie Miranda and I’ve been in the real estate business for over 26 years.</strong> I started in the business as a part-time agent to make a little extra money while working full-time in the insurance business. I immediately loved real estate and ended up opening my own brokerage in 2002. </p>
+<p><strong>My name is Willie Miranda and I’ve been in the real estate business for over 26 years.</strong> I started in the business as a part-time agent to make a little extra money while working full-time in the insurance business. I immediately fell in love with real estate and ended up opening my own brokerage in 2002.</p>
 
 <p>In my time as a broker, I’ve gotten a lot of fulfillment from helping other agents through coaching, training, and writing multiple books. I practice what I preach and apply the same practices to my business that I teach to our agents. I’m always aware of what’s going on in the marketplace so that I can relate to them. </p>
 <img src="/img/002.jpg" class="join-our-team">
