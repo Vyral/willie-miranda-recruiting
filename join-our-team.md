@@ -66,10 +66,7 @@ The choice is in your hands. You can stay struggling where you’re at, join a b
 <p>I look forward to talking to you soon!</p>
 <p>Willie Miranda</p>
 
-
-
-
-<h2 class="recruiting">Apply Now to Join Our Team</h2>
+<!--<h2 class="recruiting">Apply Now to Join Our Team</h2>-->
 
 <div data-paperform-id="join-miranda"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
 
