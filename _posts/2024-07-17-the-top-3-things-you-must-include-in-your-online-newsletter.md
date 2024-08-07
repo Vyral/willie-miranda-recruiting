@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/plain-text-thumbnail-1.png
 youtube_code:
 ---
-![](/uploads/plain-text-thumbnail-1-1.png){: width="1280" height="720"}
+![](/uploads/plain-text-thumbnail-1-1.png){: width="640" height="360"}
 
 {% include excerpt.html %}
 
