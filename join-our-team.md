@@ -4,6 +4,10 @@ title: The Capital District Careers
 permalink: /join-our-team/
 ---
 
+<div class="youtube-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDl0zXU95BI?si=RmyGsJhygZoqS_oP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 <div class="recruiting-page">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Brokerages in The Capital District</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
