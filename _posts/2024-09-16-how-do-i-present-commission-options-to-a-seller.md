@@ -15,7 +15,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/willie-miranda-yt-thumbnail.png
 youtube_code:
 ---
-![](/uploads/willie-miranda-yt-thumbnail-1.png){: style="width: 60%; text-align: center"}
+![](/uploads/willie-miranda-yt-thumbnail-1.png){: style="width: 100%; text-align: center;"}
 
 {% include excerpt.html %}
 
