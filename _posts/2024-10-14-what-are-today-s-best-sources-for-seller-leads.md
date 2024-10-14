@@ -17,7 +17,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/willie-miranda-1014-plain-text.png
 youtube_code:
 ---
-![](/uploads/willie-miranda-1014-plain-text1.png){: width="960" height="540"}
+![](/uploads/willie-miranda-1014-plain-text1.png){: width="665" height="375"}
 
 {% include excerpt.html %}
 
