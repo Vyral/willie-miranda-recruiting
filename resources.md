@@ -10,7 +10,7 @@ permalink: /resources/
 
     <div class="resources-inner-container">
             <div class="resources-image-container">
-                <img src="uploads/willie-miranda.webp" width="300">
+                <img src="uploads/willie-miranda.webp">
             </div>
             <div class="resources-content-container">
                     <h2>Willie Miranda</h2>
