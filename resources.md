@@ -19,7 +19,9 @@ permalink: /resources/
                     <div class="resources-button">DOWNLOAD</div>
                 </a>
             </div>
-             <div class="resources-image-container">
+    </div>
+    <div class="resources-inner-container">
+            <div class="resources-image-container">
                 <img src="uploads/carol-steven.webp">
             </div>
             <div class="resources-content-container">
@@ -30,5 +32,5 @@ permalink: /resources/
                 </a>
             </div>
     </div>
-    
+
 </div>
