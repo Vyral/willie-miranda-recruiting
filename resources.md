@@ -32,5 +32,29 @@ permalink: /resources/
                 </a>
             </div>
     </div>
+    <div class="resources-inner-container">
+            <div class="resources-image-container">
+                <img src="uploads/jordan-gigliotti.webp">
+            </div>
+            <div class="resources-content-container">
+                    <h2>Jordan Gigliotti</h2>
+                    <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
+                <a href="https://www.dropbox.com/scl/fo/u8bh2yt3nh210kbty0j2f/AEN7LYv1EgM82cdXxQ4t8xQ/Jordan%20Gigliotti?rlkey=d080vdkb7ix1vobm357rgrs2m&subfolder_nav_tracking=1&st=fs291cwv&dl=0" target="_blank">
+                    <div class="resources-button">DOWNLOAD</div>
+                </a>
+            </div>
+    </div>
+    <div class="resources-inner-container">
+            <div class="resources-image-container">
+                <img src="uploads/christine-serafini.webp">
+            </div>
+            <div class="resources-content-container">
+                    <h2>Christine Serafini</h2>
+                    <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
+                <a href="https://www.dropbox.com/scl/fo/u8bh2yt3nh210kbty0j2f/ALUiQVCJ3Og5NI6rk2sEX-s/Christine%20Serafini?rlkey=d080vdkb7ix1vobm357rgrs2m&subfolder_nav_tracking=1&st=ykehhxsr&dl=0" target="_blank">
+                    <div class="resources-button">DOWNLOAD</div>
+                </a>
+            </div>
+    </div>
 
 </div>
