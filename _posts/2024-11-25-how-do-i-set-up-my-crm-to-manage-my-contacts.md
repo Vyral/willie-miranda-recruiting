@@ -27,9 +27,9 @@ With all that in mind, here are three things you need to know to set up your CRM
 
 **1\. Create tons of tags.** In a CRM, you can categorize people based on pretty much everything. In my experience, you can’t over-categorize - the more tags you create to separate and define people, the better. Keep track of what type of lead they are, where they came from, their personal information, and more. Once your database gets big enough, you won’t be able to keep track of everyone in your head, so it’s best to stay organized early.
 
-{% include full-post-cta.html %}
-
 {% include pullquote.html %}
+
+{% include full-post-cta.html %}
 
 **2\. Track people’s heat.** In case you don’t know, heat is an industry term for how ready-to-sell a lead is. So if you get a hot lead, they are probably ready to move ASAP. However, one of the best strengths of your database is that you can keep track of and nurture leads that aren’t hot - people who might not want to move for another year or even longer. Keeping track of and nurturing these leads can give you consistent, reliable business for years to come, but this process starts by organizing everything in your CRM.
 
