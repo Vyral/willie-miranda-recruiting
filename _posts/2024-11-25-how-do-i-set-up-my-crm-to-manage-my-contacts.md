@@ -21,7 +21,7 @@ Are you just starting out in the real estate industry and don’t know how to se
 
 Maybe you’ve just started your real estate journey. Maybe you’ve been in the industry a long time but haven’t gotten around to fully leveraging your database yet. Whatever your situation is, you should know that a properly set up CRM is a real estate agent’s best friend.
 
-<br>Most of you probably already know what a CRM is, but if you don’t, it’s a customer relationship management service; in other words, it helps organize and leverage your database. Your database should be your most powerful asset as a real estate agent, so if you aren’t getting the most out of yours, you’re missing out.
+Most of you probably already know what a CRM is, but if you don’t, it’s a customer relationship management service; in other words, it helps organize and leverage your database. Your database should be your most powerful asset as a real estate agent, so if you aren’t getting the most out of yours, you’re missing out.
 
 With all that in mind, here are three things you need to know to set up your CRM:
 
