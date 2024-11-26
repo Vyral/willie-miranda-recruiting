@@ -29,8 +29,6 @@ With all that in mind, here are three things you need to know to set up your CRM
 
 {% include pullquote.html %}
 
-{% include full-post-cta.html %}
-
 **2\. Track people’s heat.** In case you don’t know, heat is an industry term for how ready-to-sell a lead is. So if you get a hot lead, they are probably ready to move ASAP. However, one of the best strengths of your database is that you can keep track of and nurture leads that aren’t hot - people who might not want to move for another year or even longer. Keeping track of and nurturing these leads can give you consistent, reliable business for years to come, but this process starts by organizing everything in your CRM.
 
 **3\. Create automated follow-up plans.** What’s your strategy to nurture a lead over a long time? If you don’t have one, reach out to me; I can help you with that. However, if you already know what to do, you can set up your CRM to automate your process. This way, you don’t have to worry about wasting time on a lead that never comes around. Everything will be the same way through your CRM’s automation, so you can be sure you’re putting the maximum effort into nurturing leads.
@@ -38,5 +36,7 @@ With all that in mind, here are three things you need to know to set up your CRM
 Look: While I hope these tips are helpful, there’s no getting around that setting up a CRM is a lot of work. If you want personalized help or guidance, call or email my team. We have full-time staff members who do these sort of back-end things for you, so you can focus 100% of your energy on making money. Just reach out if you’re interested.
 
 I look forward to hearing from you!
+
+{% include full-post-cta.html %}
 
 <br>
