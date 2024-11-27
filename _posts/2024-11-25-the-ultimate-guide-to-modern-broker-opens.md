@@ -19,7 +19,7 @@ youtube_code: 5twtsZ-ECjI
 
 {% include excerpt.html %}
 
-Broker opens aren’t what they used to be. Remember the days when agents would jump into their cars for caravan tours, offering feedback to colleagues and their sellers? Times have changed. Sellers might still love the idea of a traditional broker open, but the real estate landscape is a whole new ball game. With virtual tours, detailed online listings, and busy agent schedules, hosting a successful broker open in 2024 requires a fresh approach.
+Broker opens aren’t what they used to be. Remember the days when agents would jump into their cars for caravan tours, offering feedback to colleagues and their sellers? Times have changed. Sellers might still love the idea of a traditional broker’s open house, but the real estate landscape is a whole new ball game. With virtual tours, detailed online listings, and busy agent schedules, hosting a successful broker open in 2024 requires a fresh approach.
 
 If you’re wondering how to make broker opens worthwhile in today’s fast-paced market, this video covers strategies that will bring agents to your event, generate valuable feedback, and impress your clients.<br>
 
