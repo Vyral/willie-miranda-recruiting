@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/willie-miranda-yt-thumbnail-3.jpg
 youtube_code:
 ---
-![](/uploads/willie-miranda-yt-thumbnail-2.jpg)
+![](/uploads/willie-miranda-yt-thumbnail-2.jpg){: style="width:100%; text-align:center;"}
 
 {% include excerpt.html %}
 
@@ -25,7 +25,6 @@ Have you considered hiring a showing agent to give you more leverage with your r
 **1\. How to find your showing agent.** To find the best showing agent possible, I recommend running ads to newer agents looking to get a little extra cash. All agents need to pay the bills, and newer agents might not make enough from commissions yet to cover all their expenses. By offering them to be your showing agent, they can get the opportunity to make extra cash while you free up time to spend on more important activities.
 
 {% include full-post-cta.html %}
-
 {% include pullquote.html %}
 
 **2\. Pay them extra for the first home.** When you find a good candidate, offer them extra money for their first home. This first job will double as their “audition” — if they do a good job, they’ll earn the right to work with you on more homes in the future. The higher first-home rate will also help you attract the highest-quality candidates possible for the position.
