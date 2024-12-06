@@ -20,6 +20,10 @@ youtube_code:
 
 {% include excerpt.html %}
 
+{% include author-box.html %}
+
+{% include cta-main-box.html %}
+
 Have you considered hiring a showing agent to give you more leverage with your real estate business? I get it—once your real estate career starts picking up, it can feel like you never have enough time. One of the easiest ways you can buy back your time is by working with a showing agent. This allows you to spend all the time you would have spent on showings on money-making activities instead. It’s a great way to gain leverage, and I recommend it to many agents when they’re first feeling overwhelmed. However, working with a showing agent raises an obvious question: How should you pay them? Here are three tips to make sure you’re getting the most out of your showing agents:
 
 **1\. How to find your showing agent.** To find the best showing agent possible, I recommend running ads to newer agents looking to get a little extra cash. All agents need to pay the bills, and newer agents might not make enough from commissions yet to cover all their expenses. By offering them to be your showing agent, they can get the opportunity to make extra cash while you free up time to spend on more important activities.
