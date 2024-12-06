@@ -15,6 +15,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/1-1.jpg
 youtube_code: 5twtsZ-ECjI
 ---
+![](/uploads/1-1.jpg)
+
 {% include youtube.html %}
 
 {% include excerpt.html %}
