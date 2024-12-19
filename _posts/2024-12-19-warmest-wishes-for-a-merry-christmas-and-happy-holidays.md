@@ -12,7 +12,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/merry-christmas-2-1.png
 youtube_code:
 ---
-![](/uploads/merry-christmas-2-1-1.png)
+![](/uploads/merry-christmas-2-1-1.png){: style="width:100%; text-align:center;"}
 
 &nbsp;
 
