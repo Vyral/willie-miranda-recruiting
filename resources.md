@@ -46,6 +46,18 @@ permalink: /resources/
                 </a>
             </div>
     </div>
+    <div class="resources-inner-container">
+            <div class="resources-image-container">
+                <img src="uploads/meghan-oconnor.webp">
+            </div>
+            <div class="resources-content-container">
+                    <h2>Meghan O’Connor</h2>
+                    <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
+                <a href="https://www.dropbox.com/scl/fo/ftsy283qeu0uy3k0my347/ALrTvVhHn78iAObf867Bm4Y?rlkey=t654edcp7ss54rrkiax0ymbr1&dl=0" target="_blank">
+                    <div class="resources-button">DOWNLOAD</div>
+                </a>
+            </div>
+    </div>
      <div class="resources-title">
        Embrace the Change 
      </div>
