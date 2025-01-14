@@ -56,7 +56,7 @@ permalink: /resources/
             </div>
     </div>
     <div class="resources-title">
-        <h3>Real Estate Success Summit</h3>
+        Real Estate Success Summit
      </div>
      <div class="resources-inner-container">
             <div class="resources-image-container">
