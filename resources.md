@@ -55,7 +55,7 @@ permalink: /resources/
                 </a>
             </div>
     </div>
-    <div class=".resources-title">
+    <div class="resources-title">
         <h3>Real Estate Success Summit</h3>
      </div>
      <div class="resources-inner-container">
