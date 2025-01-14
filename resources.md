@@ -10,6 +10,18 @@ permalink: /resources/
     <div class="resources-title">
         Real Estate Success Summit
      </div>
+     <div class="resources-inner-container">
+            <div class="resources-image-container">
+                <img src="uploads/willie-miranda.webp">
+            </div>
+            <div class="resources-content-container">
+                    <h2>Willie Miranda</h2>
+                    <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
+                <a href="https://www.dropbox.com/scl/fo/u8bh2yt3nh210kbty0j2f/ADXDut8eWfTp1wwabbLaBZk/Willie%20Miranda?rlkey=d080vdkb7ix1vobm357rgrs2m&subfolder_nav_tracking=1&st=15wi005j&dl=0" target="_blank">
+                    <div class="resources-button">DOWNLOAD</div>
+                </a>
+            </div>
+    </div>
     <div class="resources-inner-container">
             <div class="resources-image-container">
                 <img src="uploads/ginnel-gumani.webp">
@@ -30,18 +42,6 @@ permalink: /resources/
                     <h2>Chris McCabe</h2>
                     <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
                 <a href="https://www.dropbox.com/scl/fo/519o5rqzoqbuq2w0vgl1c/APVA9ApMv9W-oz6YwrF02Mg?rlkey=pqmzo2xu05pm8k2plfagpjps3&dl=0" target="_blank">
-                    <div class="resources-button">DOWNLOAD</div>
-                </a>
-            </div>
-    </div>
-    <div class="resources-inner-container">
-            <div class="resources-image-container">
-                <img src="uploads/willie-miranda.webp">
-            </div>
-            <div class="resources-content-container">
-                    <h2>Willie Miranda</h2>
-                    <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
-                <a href="https://www.dropbox.com/scl/fo/u8bh2yt3nh210kbty0j2f/ADXDut8eWfTp1wwabbLaBZk/Willie%20Miranda?rlkey=d080vdkb7ix1vobm357rgrs2m&subfolder_nav_tracking=1&st=15wi005j&dl=0" target="_blank">
                     <div class="resources-button">DOWNLOAD</div>
                 </a>
             </div>
