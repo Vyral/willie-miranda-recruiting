@@ -56,5 +56,29 @@ permalink: /resources/
                 </a>
             </div>
     </div>
+     <div class="resources-inner-container">
+            <div class="resources-image-container">
+                <img src="uploads/ginnel-gumani.webp">
+            </div>
+            <div class="resources-content-container">
+                    <h2>Ginnel Gumani</h2>
+                    <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
+                <a href="https://www.dropbox.com/scl/fo/57ut7a9h96oe9raqx37oj/AM4wimBJ5WMsaDRj6VTWegs?rlkey=mnzcw0fjal8zdewa9hgy4jxjj&dl=0" target="_blank">
+                    <div class="resources-button">DOWNLOAD</div>
+                </a>
+            </div>
+    </div>
+     <div class="resources-inner-container">
+            <div class="resources-image-container">
+                <img src="uploads/chris-mccabe.webp">
+            </div>
+            <div class="resources-content-container">
+                    <h2>Chris McCabe</h2>
+                    <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
+                <a href="https://www.dropbox.com/scl/fo/519o5rqzoqbuq2w0vgl1c/APVA9ApMv9W-oz6YwrF02Mg?rlkey=pqmzo2xu05pm8k2plfagpjps3&dl=0" target="_blank">
+                    <div class="resources-button">DOWNLOAD</div>
+                </a>
+            </div>
+    </div>
 
 </div>
