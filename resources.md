@@ -7,7 +7,6 @@ permalink: /resources/
 
 <div class="resources-container">
     <h1>Coach Resources</h1>
-
     <div class="resources-inner-container">
             <div class="resources-image-container">
                 <img src="uploads/willie-miranda.webp">
@@ -56,6 +55,9 @@ permalink: /resources/
                 </a>
             </div>
     </div>
+    <div class="resources-inner-container">
+        <h3>Real Estate Success Summit</h3>
+     </div>
      <div class="resources-inner-container">
             <div class="resources-image-container">
                 <img src="uploads/ginnel-gumani.webp">
