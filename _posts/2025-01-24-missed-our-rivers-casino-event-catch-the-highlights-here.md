@@ -22,7 +22,7 @@ A huge thank you to our phenomenal Keynote Speaker, **Anthony Lamacchia**, for d
 
 Special thanks to **Heidi Rotter**, our amazing Moderator, for navigating such a deep and impactful discussion with our **Top Agent Panel**. Their valuable insights and actionable advice will no doubt inspire agents aiming to sustain a thriving career in this industry.
 
-Shoutout to our panelists—**Chris McCabe, Meghan O'Connor, Ginnel Gumani,** and **Cathy Cooley**—for sharing what's working in their businesses and helping others raise the bar!
+Shoutout to our panelists—**Chris McCabe, Meghan O’Connor, Ginnel Gumani,** and **Cathy Cooley**—for sharing what’s working in their businesses and helping others raise the bar!
 
 Don’t miss the chance to relive the magic or experience it for the first time through our recap video.
 
