@@ -24,6 +24,18 @@ permalink: /resources/
     </div>
     <div class="resources-inner-container">
             <div class="resources-image-container">
+                <img src="uploads/jeff-miller.webp">
+            </div>
+            <div class="resources-content-container">
+                    <h2>Jeff Miller</h2>
+                    <p>Access and download all essential resources provided by this coach to support your growth and learning journey. Click the download button below.</p>
+                <a href="https://www.dropbox.com/scl/fi/opxtm4l90hk0se2amzjdb/Jeff-s-Presentation.pptx?rlkey=4ijxlftqzg2znpv9gu9y0irg0&dl=0" target="_blank">
+                    <div class="resources-button">DOWNLOAD</div>
+                </a>
+            </div>
+    </div>
+    <div class="resources-inner-container">
+            <div class="resources-image-container">
                 <img src="uploads/ginnel-gumani.webp">
             </div>
             <div class="resources-content-container">
