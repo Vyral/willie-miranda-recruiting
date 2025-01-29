@@ -22,7 +22,7 @@ Special thanks to **Heidi Rotter**, our amazing Moderator, for navigating such a
 
 Shoutout to our panelists—**Chris McCabe, Meghan O’Connor, Ginnel Gumani,** and **Cathy Cooley**—for sharing what’s working in their businesses and helping others raise the bar!
 
-Missed the takeaways from the event? Visit [**https://ultimaterealestatesuccessblueprint.com/resources**](https://ultimaterealestatesuccessblueprint.com/resources){: target="_blank" rel="noopener"}
+Missed the takeaways from the event? <br>Visit [**https://ultimaterealestatesuccessblueprint.com/resources**](https://ultimaterealestatesuccessblueprint.com/resources){: target="_blank" rel="noopener"}
 
 Don’t miss the chance to relive the magic or experience it for the first time through our recap video.
 
