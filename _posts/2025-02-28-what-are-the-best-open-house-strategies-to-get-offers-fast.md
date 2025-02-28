@@ -35,5 +35,3 @@ Spring is on its way, and with it comes the busiest home-buying season of the ye
 **3\. Make it personal.** The secret to converting visitors into buyers is personal engagement. Greet everyone with a smile and take time to learn what they’re looking for in a home. Prepare a QR code that links to detailed property information, and set up interactive elements like a neighborhood highlights board. Collect feedback with a quick survey—it shows you care and provides valuable insights for future showings.
 
 If you’re ready to take your open house to the next level or have any questions about the process, reach out to me by phone or email. Let’s work together to turn your open house into the launchpad for your next big sale.
-
-{% include cta-content-box.html %}
