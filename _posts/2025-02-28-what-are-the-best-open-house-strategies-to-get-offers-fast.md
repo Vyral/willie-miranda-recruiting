@@ -36,4 +36,4 @@ Spring is on its way, and with it comes the busiest home-buying season of the ye
 
 If you’re ready to take your open house to the next level or have any questions about the process, reach out to me by phone or email. Let’s work together to turn your open house into the launchpad for your next big sale.
 
-{%include cta-content-box.html%}
+{% include cta-content-box.html %}
