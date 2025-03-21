@@ -108,7 +108,7 @@ images:
   logo_width_number: 40
   hero_text: Clifton Park Real Estate Video Blog
   hero_background_hex: '#999999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /uploads/willie-miranda-hero-bg.webp
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#083860'
