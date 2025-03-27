@@ -17,7 +17,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/willie-miranda-yt-thumbnail-1-1.png
 youtube_code:
 ---
-![](/uploads/willie-miranda-yt-thumbnail-1-2.png){: style="width: 100%; text-align: center;"}
+![](/uploads/willie-miranda-yt-thumbnail-1-2.png)
 
 {% include excerpt.html %}
 
@@ -34,5 +34,9 @@ Today, I’m sharing three key reasons why time management is essential for real
 **3\. Avoid burnout by taking a break.** Real estate can be nonstop if you let it. But working 24/7 isn’t the key to success; it’s a recipe for burnout. The best agents protect their time by scheduling breaks and personal time just as they would a client meeting. To avoid burnout, start by time-blocking personal and family time so work doesn’t take over your life. Set clear work boundaries by letting your clients know when you’re available, and schedule weekly ‘CEO time’ to focus on work on your business, not just being in it. Taking control of your schedule isn’t just about work; it’s about building a sustainable career that supports your lifestyle.
 
 Time is your most valuable asset in real estate. When you manage it well, you get more done, close more deals, and actually enjoy the business. Let’s chat if you want help setting up a time management strategy that works for you. Reach out by phone, email, or DM—I’d love to help you create a schedule that sets you up for long-term success.
+
+[**Free Time Management Webinar**](https://register.gotowebinar.com/recording/2801032637682480395 "View this recording"){: target="_blank" rel="noopener"}
+
+{% link https://register.gotowebinar.com/recording/2801032637682480395 %}
 
 {% include full-post-cta.html %}
