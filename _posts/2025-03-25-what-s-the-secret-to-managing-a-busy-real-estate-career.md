@@ -37,6 +37,4 @@ Time is your most valuable asset in real estate. When you manage it well, you ge
 
 [**Free Time Management Webinar**](https://register.gotowebinar.com/recording/2801032637682480395 "View this recording"){: target="_blank" rel="noopener"}
 
-{% link https://register.gotowebinar.com/recording/2801032637682480395 %}
-
 {% include full-post-cta.html %}
